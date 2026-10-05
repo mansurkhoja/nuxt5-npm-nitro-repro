@@ -1,0 +1,11 @@
+{
+  "name": "nuxt5-npm-nitro-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "nuxt": "npm:nuxt-nightly@5x"
+  }
+}
